@@ -18,5 +18,6 @@ code --install-extension phoenisx.gohugo
 code --install-extension eliostruyf.vscode-hugo-themer
 code --install-extension eliostruyf.vscode-front-matter
 
-
 code --install-extension frontmatter.frontmatter
+
+code --install-extensions erlang-ls.erlang-ls
