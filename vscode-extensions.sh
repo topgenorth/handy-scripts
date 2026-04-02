@@ -21,3 +21,5 @@ code --install-extension eliostruyf.vscode-front-matter
 code --install-extension frontmatter.frontmatter
 
 code --install-extensions erlang-ls.erlang-ls
+
+code --install-extensions jetbrains.resharper-code
