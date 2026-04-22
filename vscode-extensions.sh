@@ -24,3 +24,13 @@ code --install-extensions jetbrains.resharper-code
 code --install-extensions foxundermoon.shell-format
 
 code --install-extensions ms-vscode.powershell
+
+# for React
+code --install-extension dsznajder.es7-react-js-snippets
+code --install-extension dbaeumer.vscode-eslint
+code --install-extension shorty.shorties
+code --install-extension formulahendry.auto-rename-tag
+code --install-extension ecmel.vscode-html-css
+code --install-extension gencer.css-modules
+code --install-extension bradlc.vscode-tailwindcss
+code --install-extension wix.vscode-import-cost
