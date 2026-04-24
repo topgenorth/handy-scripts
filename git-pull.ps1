@@ -1,3 +1,5 @@
+#!/usr/bin/env pwsh
+
 $repos = @(
     "~/Dir1",
     "~/Dir2"
